@@ -16,15 +16,15 @@ Wednesday, 07 October @ 11:59 pm
 
 **Steps**
 1. Partner up with 1 other student.
-   It helps if you align with your partner on interest.
+   It helps if you align with your partner on interest and find or eliminate potential teammates.
 2. Together, identify a type of quantum processor "QPU" and explain how it works.
-   Think about:
+   1. Think about:
       + Theory: What quantum principle(s) does it use?
       + Physical: What does it look like physically? How big are state-of-the-art machines? Where can you see them?
       + Resources: How do they scale? What are the limiting factors?
       + Industry: Who makes them? Who uses them? How many are there? How have they progressed since their invention?
       + Users: How do you use them? How are the programs encoded? What constraints should I know about them?
-   Example QPU types:
+   2. Example QPU types:
       + superconducting transmon (JJ)
       + trapped ion
       + neutral atom
@@ -34,12 +34,12 @@ Wednesday, 07 October @ 11:59 pm
    You may include classical pre-processing, post-processing, hyperparameters, or feedback.
    Label each step and what it does. Is it classical, quantum, or hybrid?
 4. Break apart the process into logical steps, and create a final flowchart. There should be more than 4.
-5. Identify a problem with the architecture. Circle where it lives in the flowchart.
+5. Identify a problem with the architecture. Circle where it lives in the flowchart.  
    Example problems with the architecture:
-      + data encoding & embedding
-      + noise, error rates & decoherence
-      + machine precision
-      + classical overhead
+   + data encoding & embedding
+   + noise, error rates & decoherence
+   + machine precision
+   + classical overhead
    How do these problems manifest? What do the consequences look like for users of that system?
 6. **ONCE ACCEPTED** Optionally, look at accepted teams & projects to have a good idea of who else will be at the next meeting.
 
