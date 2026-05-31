@@ -65,7 +65,7 @@ This workshop should help you learn how distributed teams coordinate work, manag
 2. Ensure all Pull Requests have been merged.
 3. Confirm the repository is accessible to all team members.
 
-# Success Criteria
+# Checklist
 
 **Repository Setup**
 * Every participant can access the repository.

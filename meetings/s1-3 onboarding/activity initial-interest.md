@@ -65,7 +65,7 @@ Likely true. Sources show analogical teaching helps retention, and sports exampl
 2. National Academies of Sciences. (2018). *How people learn II: Learners, contexts, and cultures*.  
 3. University of Maryland Teaching and Learning Center. (2021). "Effective Use of Analogies in STEM Education."
 
-# Rubric
+# Checklist
 
 **Hypothesis Development**  
 - Hypothesis is clearly stated, testable, and relevant.  

@@ -50,7 +50,7 @@ Wednesday, 07 October @ 11:59 pm
 4. Link your folder in the submission spreadsheet.
 5. Be assessed as a team to know if you’re continuing by Thursday, 08 October @ 11:59 pm.
 
-# Rubric
+# Checklist
 
 **High-Level Explanation**
 - Clear reasoning that an uninitiated student can follow.

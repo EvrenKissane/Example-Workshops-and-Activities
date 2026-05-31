@@ -37,7 +37,7 @@ Wednesday, 30 September @ 11:59 pm
 4. Link your folder in the submission spreadsheet.
 5. Be assessed as a team and get feedback by Thursday, 01 October @ 11:59 pm.
 
-# Rubric
+# Checklist
 
 **Notes**
 - First-pass notes are specific to the language itself (key terms, words, and phrases)

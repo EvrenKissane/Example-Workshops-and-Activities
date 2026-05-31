@@ -52,7 +52,7 @@ Leadership should reinforce that the purpose of the program is not simply to com
     * Startup opportunities.
     * Full-time positions.
 
-# Success Criteria
+# Checklist
 
 **Opportunity Awareness**
 * Researchers can identify opportunities they genuinely find interesting.

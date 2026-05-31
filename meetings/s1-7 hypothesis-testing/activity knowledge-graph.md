@@ -32,7 +32,7 @@ Wednesday, 21 October @ 11:59 pm
 4. Link your folder in the submission spreadsheet.
 5. Get feedback from peers, peer advisors, and leadership by the next meeting.
 
-# Rubric
+# Checklist
 
 **Coherence**
 - Knowledge graph is fully connected.
