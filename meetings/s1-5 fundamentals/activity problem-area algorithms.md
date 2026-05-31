@@ -16,29 +16,28 @@ Wednesday, 07 October @ 11:59 pm
 - Identify assumptions or hardware constraints that affect whether the algorithm is useful in practice.
 
 **Steps**
-1. Partner up with 1 other student.
+1. Partner up with 1 new student.
    It helps if you align with your partner on interest and find or eliminate potential teammates.
-2. Together, identify a quantum algorithm and algorithmic problem area to explore.
-   Think about:
-      + Theory: What quantum principle(s) does it use?
-      + Physical: What does it look like physically? How big are state-of-the-art machines? Where can you see them?
-      + Resources: How do they scale? What are the limiting factors?
-      + Industry: Who makes them? Who uses them? How many are there? How have they progressed since their invention?
-      + Users: How do you use them? How are the programs encoded? What constraints should I know about them?
-   Example QPU types:
-      + superconducting transmon (JJ)
-      + trapped ion
-      + neutral atom
-      + nitrogen vacancy diamond (NVD)
-      + nuclear magnetic resonance (NMR)
-3. Describe and number each step in the process that the QPU takes from the input quantum program, to the actual results.
-   You may include classical pre-processing, post-processing, hyperparameters, or feedback.
+2. Together, identify a quantum algorithmic problem area to explore.
+3. Together, choose a quantum algorithm you find interesting.
+   Example Algorithm types:
+      + Abstract
+      + Simple problem
+      + Realistic problem
+      + Quantum error correction
+      + Resource allocation
+      + Applied on quantum simulator and/or hardware
+3. Describe and number each logical step in the process that the algorithm takes from the input, to the output.
+   You may include subroutines, classical pre-processing, post-processing, hyperparameters, or feedback.
    Label each step and what it does. Is it classical, quantum, or hybrid?
-4. Break apart the process into logical steps, and create a final flowchart. There should be more than 4.
-5. Identify a problem with the architecture. Circle where it lives in the flowchart.
-   Example problems with the architecture:
+4. Create a final flowchart.
+   There should be more than 4 steps.
+5. Identify a problem with the architecture.
+   Circle where it lives in the flowchart.
+   Example problems with the algorithm:
       + data encoding & embedding
       + noise, error rates & decoherence
+      + classical or quantum limitations
       + machine precision
       + classical overhead
    How do these problems manifest? What do the consequences look like for users of that system?
@@ -46,7 +45,7 @@ Wednesday, 07 October @ 11:59 pm
 
 **Submission**
 1. Navigate to the "Activity Folder."  
-2. Create a folder for your partnership named: "qpu type: fun name you choose"
+2. Create a folder for your partnership named: "algorithm type: fun name you choose"
 3. Upload your diagram into that folder, your accompanying written explanations, and a folder with reference materials.  
 4. Link your folder in the submission spreadsheet.
 5. Be assessed as a team to know if you’re continuing by Thursday, 08 October @ 11:59 pm.
