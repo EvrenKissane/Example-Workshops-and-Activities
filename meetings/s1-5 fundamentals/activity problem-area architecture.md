@@ -15,7 +15,7 @@ Wednesday, 07 October @ 11:59 pm
 - Communicate complex contexts, computations, and engineering efforts as a simple logical system.
 
 **Steps**
-1. Partner up with 1 other student.
+1. Partner up with 1 new student.
    It helps if you align with your partner on interest and find or eliminate potential teammates.
 2. Together, identify a type of quantum processor "QPU" and explain how it works.
    1. Think about:
