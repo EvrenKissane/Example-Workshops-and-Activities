@@ -45,7 +45,9 @@
   technical communication, research context, documentation, computer simulations, ...
 
 # Examples:
-- Superconducting Transmon:
-  ...
-- Trapped Ion:
-  ...
+- Superconducting Transmon
+- Trapped Ion
+- Neutral Atom
+- Photonic
+
+(pick 2)
